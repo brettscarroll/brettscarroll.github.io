@@ -2,8 +2,7 @@
 html
 *{
   box-sizing: border-box;
-  background-color: cadetblue;
-  text-align: center;
+  background-color: gray;
 }
 *:before, *:after
 {
